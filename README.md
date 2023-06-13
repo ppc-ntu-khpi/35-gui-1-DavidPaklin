@@ -26,4 +26,6 @@
 
 Я обрав завдання на 4 бали, всі дані програма бере з файлу test.dat
 
-![Описание изображения](image/exampleswing.png)
+![Описание изображения](image/exampleswing1.png)
+
+![Описание изображения](image/exampleswing2.png)
